@@ -66,6 +66,9 @@ This lab replicates a real-world SOC workflow where security teams monitor, anal
 - Windows Client – Endpoint simulation
   
 ## 🔍 Detailed Workflow
+
+![image](https://github.com/KESAVA-0725/SOAR-Based-Automated-Incident-Response-for-RDP-Activity-in-Active-Directory/blob/main/Docs/Playbook%202.0.png?raw=true)
+
 ### 🔹 Step 1 – Environment Setup
 
 A Windows Server is configured as a Domain Controller using Active Directory. Multiple user accounts are created to simulate an organizational environment. A Windows client machine is joined to this domain to generate authentication events.
