@@ -2,6 +2,9 @@
 
 ## 🧠 Project Overview
 
+
+![image](https://github.com/KESAVA-0725/SOAR-Based-Automated-Incident-Response-for-RDP-Activity-in-Active-Directory/blob/main/Docs/AD.drawio.png?raw=true)
+
 This project demonstrates a complete end-to-end Security Operations Center (SOC) home lab designed to simulate real-world enterprise security monitoring and automated incident response.
 
 The primary objective of this lab is to detect Remote Desktop Protocol (RDP) login activity in a Windows Active Directory environment and automate the response workflow using SIEM and SOAR technologies. The system integrates log collection, detection, alerting, analyst decision-making, and automated remediation into a unified pipeline.
